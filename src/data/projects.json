@@ -1,0 +1,27 @@
+[
+    {
+      "title": "PORTFOLIO",
+      "imageSrc": "projects/project.png",
+      "description": "Engineered a versatile portfolio template, providing a customizable foundation for crafting visually captivating and interactive portfolios.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "MERN E-SHOP",
+      "imageSrc": "projects/project.png",
+      "description": "Executed robust role-based authentication, email verification, and authorization enhancements for heightened security.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "STUDENT ERP PORTAL",
+      "imageSrc": "projects/project.png",
+      "description": "Provided secure access for students to view academic records such as marks and personal details.                         ",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
